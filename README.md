@@ -2,7 +2,7 @@
 <h3> 🚀 I'm a mobile Developer </h3>
 
 <p align="left">
-  💻&nbsp;&nbsp;<a  href="https://holy-target-614.notion.site/Vladimir-Vinokurov-b9b20d6035be46248316466c595c80c5?pvs=4">My Resume</a>
+  💻&nbsp;&nbsp;<a href="https://warpphoenix03.github.io/">My Resume</a>
 </p>
 
 ```swift
@@ -15,5 +15,4 @@ class WarpPhoenix03: Developer {
     "v.vinokurovmessage@gmail.com"
   ]  
 }
-
 ```
